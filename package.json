@@ -1,0 +1,15 @@
+{
+    "name": "Technical Test",
+    "version": "1.0.0",
+    "description": "Technical test for nodejs backend",
+    "main": "index.js",
+    "scripts": {
+        "dev": "node index.js"
+    },
+    "author": {
+        "name": "Angeljot Dang"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
